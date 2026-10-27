@@ -56,7 +56,7 @@ For users researching CPU-Z official website information, the publisher's docume
 A reliable hardware assessment combines component identification with manufacturer documentation and appropriate diagnostic tools. CPU-Z can contribute useful information to this process without replacing the additional checks needed for compatibility, stability, or thermal evaluation.
 
 <div align="center">
-  <img src="PASTE_INTERFACE_IMAGE_URL_HERE" alt="CPU-Z Processor and Memory Information Interface"/>
+  <img src="https://www.cpuid.com/medias/upload/news/cpuz-arm64_1704993628.png" alt="CPU-Z Processor and Memory Information Interface"/>
 </div>
 
 ---
